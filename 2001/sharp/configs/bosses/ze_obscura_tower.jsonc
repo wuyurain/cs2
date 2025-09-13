@@ -23,18 +23,25 @@
 {
   "Counters": [
     {
-      "iterator": "big_doll_counter",
-      "backup": "big_doll_hp_backup",
-      "counter": "big_doll_hp_iterations",
-      "hitbox": "bigdoll_hpbox",
-      "display": "Doll"
+      "iterator": "blackknight_counter",
+      "counter": "blackknight_hp_iterations",
+      "backup": "blackknight_hp_backup",
+      "hitbox": "blackknight_hitbox",
+      "display": "黑骑士"
     },
     {
-      "iterator": "mask_counter",
-      "backup": "mask_hp_backup",
-      "counter": "mask_hp_iterations",
-      "hitbox": "mask_hpbox",
-      "display": "Mask"
+      "iterator": "spider_counter",
+      "counter": "spider_hp_iterations",
+      "backup": "spider_hp_backup",
+      "hitbox": "s2_spider_hitbox",
+      "display": "蜘蛛"
+    },
+    {
+      "iterator": "terror_counter",
+      "counter": "terror_hp_iterations",
+      "backup": "terror_hp_backup",
+      "hitbox": "terror_hitbox",
+      "display": "恐惧"
     }
   ]
 }

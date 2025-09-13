@@ -21,20 +21,26 @@
   // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
 
 {
-  "Counters": [
+  "Monsters": [
     {
-      "iterator": "big_doll_counter",
-      "backup": "big_doll_hp_backup",
-      "counter": "big_doll_hp_iterations",
-      "hitbox": "bigdoll_hpbox",
-      "display": "Doll"
+      "identity": "9297",
+      "display": "心脏枷锁-1"
     },
     {
-      "iterator": "mask_counter",
-      "backup": "mask_hp_backup",
-      "counter": "mask_hp_iterations",
-      "hitbox": "mask_hpbox",
-      "display": "Mask"
+      "identity": "9300",
+      "display": "心脏枷锁-2"
+    },
+    {
+      "identity": "9302",
+      "display": "心脏枷锁-3"
+    },
+    {
+      "identity": "9304",
+      "display": "心脏枷锁-4"
+    },
+    {
+      "identity": "9311",
+      "display": "*%鲁^!$#之心"
     }
   ]
 }
